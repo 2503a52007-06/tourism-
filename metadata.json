@@ -1,0 +1,8 @@
+{
+  "name": "WanderLust Tourism Management System",
+  "description": "Full-stack Tourism Management System for discovering destinations, planning trips, booking hotels \u0026 transport, managing reservations, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
